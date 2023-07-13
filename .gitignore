@@ -1684,3 +1684,5 @@ build/rom/game.ihx
 build/rom/game.map
 build/rom/game.noi
 build/rom/game.sym
+*.gb
+*.zip
